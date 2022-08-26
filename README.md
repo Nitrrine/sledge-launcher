@@ -24,7 +24,7 @@ You are need this to run project
 * [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
 
 <p align="center">
-<a href="https://electronjs.org"><img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" style="width: 50px;"></img></a>
-<a href="https://electronjs.org"><img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" style="width: 50px;"></img></a>
-<a href="https://electronjs.org"><img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" style="width: 50px;"></img></a>
-<a href="https://electronjs.org"><img src="https://github.com/get-icon/geticon/blob/master/icons/electron.svg" style="width: 50px;"></img></a></p>
+<a href="https://electronjs.org"><img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" style="width: 35px;"></img></a>
+<a href="https://electronjs.org"><img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" style="width: 35px;"></img></a>
+<a href="https://electronjs.org"><img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" style="width: 35px;"></img></a>
+<a href="https://electronjs.org"><img src="https://github.com/get-icon/geticon/blob/master/icons/electron.svg" style="width: 35px;"></img></a></p>
