@@ -13,7 +13,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    transition: 1s ease-in-out;
+    transition: 1s;
 }
 
 [light-theme] {
@@ -57,6 +57,14 @@ a:hover {
     padding: 5px;
     text-align: center;
     background: var(--var-second-bg);
+}
+
+.title .status {
+    position: absolute;
+    display: inline;
+    user-select: none;
+    right: 5px;
+    color: var(--var-second-fc);
 }
 
 button {

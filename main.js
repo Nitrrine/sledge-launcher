@@ -1,6 +1,6 @@
 const path = require('path')
 const url = require('url')
-const {app, BrowserWindow} = require('electron')
+const {app, BrowserWindow, dialog} = require('electron')
 
 let win
 
@@ -27,6 +27,17 @@ function createWindow() {
     win.webContents.setWindowOpenHandler(({ url }) => {
         require('electron').shell.openExternal(url);
         return {action: 'deny'}
+    })
+
+    win.on('close', function (e) {
+        var response = dialog.showMessageBoxSync(this, {
+            type: 'question',
+            buttons: ['Yes', 'No'],
+            title: 'Confirm',
+            message: 'Are you sure want to exit?'
+        })
+
+        if (response == 1) e.preventDefault()
     })
 
     win.on('closed', () => {

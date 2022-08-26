@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';" />
     <title>Sledge</title>
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -26,6 +27,9 @@
                     <span style="--i:5;">g</span>
                     <span style="--i:6;">e</span>
                 </wave-text>
+                <div class="status">
+                    <span id="status_internet"></span>
+                </div>
             </div>
         </header>
         <div class="main">
@@ -44,6 +48,7 @@
             </div>
         </footer>
     </div>
+    <script src="renderer.js"></script>
     <script src="buttons.js"></script>
     <script src="themes.js"></script>
 </body>
