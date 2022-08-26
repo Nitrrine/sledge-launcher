@@ -3,8 +3,8 @@
 <p align="center">
 <i>Fully customizable launcher for <a href="https://github.com/44lr/sledge">Sledge</a></i>
 <p align="center">
-<img src="https://img.shields.io/github/downloads/BuilderHD/sledge-launcher/total?style=flat-square"></img></p>
-<img src="https://img.shields.io/tokei/lines/github/BuilderHD/sledge-launcher?style=flat-square"></img></p>
+<img src="https://img.shields.io/github/downloads/BuilderHD/sledge-launcher/total?style=flat-square"></img>
+<img src="https://img.shields.io/tokei/lines/github/BuilderHD/sledge-launcher?style=flat-square"></img>
 </p>
 
 ## Requirements
