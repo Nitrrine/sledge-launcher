@@ -22,3 +22,5 @@ You are need this to run project
 
 ## Special thanks
 * [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
+
+<p align="center">Made with HTML, CSS, JS and <a href="https://www.electronjs.org/">Electron</a></p>
