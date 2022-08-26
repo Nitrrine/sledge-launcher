@@ -23,8 +23,8 @@ You are need this to run project
 ## Special thanks
 * [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
 
-<p align="center">Made with
-<img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.png" style="width: 30px;"></img>
-<img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/css/css.png" style="width: 30px;"></img>
-<img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/javascript/javascript.png" style="width: 30px;"></img>
-<img src="https://avatars.githubusercontent.com/u/13409222?s=40"></img></p>
+<p align="center">
+<img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.png" style="width: 50px;"></img>
+<img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/css/css.png" style="width: 50px;"></img>
+<img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/javascript/javascript.png" style="width: 50px;"></img>
+<img src="https://avatars.githubusercontent.com/u/13409222?s=50"></img></p>
