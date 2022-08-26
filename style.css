@@ -1,15 +1,38 @@
+:root {
+    --var-body-bg: #252525;
+    --var-body-fc: #fff;
+    --var-second-bg: #202020;
+    --var-second-fc: #999999;
+    --var-button-bg: #2d3af5;
+    --var-second-button-bg: #1e27ac;
+    --var-popup-bg: #101010;
+    --var-popup-second-bg: #090909;
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    transition: 1s ease-in-out;
+}
+
+[light-theme] {
+    --var-body-bg: #c2c2c2;
+    --var-body-fc: #272727;
+    --var-second-bg: #888888;
+    --var-second-fc: #383838;
+    --var-button-bg: #303030;
+    --var-second-button-bg: #747474;
+    --var-popup-bg: #adadad;
+    --var-popup-second-bg: #858585;
 }
 
 body {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: #252525;
-    color: #fff;
+    background: var(--var-body-bg);
+    color: var(--var-body-fc);
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -33,12 +56,12 @@ a:hover {
 .header {
     padding: 5px;
     text-align: center;
-    background: #202020;
+    background: var(--var-second-bg);
 }
 
 button {
     padding: 5px 10px;
-    background: rgb(45, 58, 245);
+    background: var(--var-button-bg);
     color: #fff;
     border: none;
     user-select: none;
@@ -48,7 +71,7 @@ button {
 }
 
 button:hover {
-    background: rgb(30, 39, 172);
+    background: var(--var-second-button-bg);
 }
 
 .main {
@@ -69,8 +92,8 @@ button:hover {
 
 .footer {
     padding: 5px;
-    color: rgb(202, 202, 202);
-    background: #202020;
+    color: var(--var-second-fc);
+    background: var(--var-second-bg);
 }
 
 .footer .links {
@@ -98,7 +121,7 @@ wave-text span {
    }
    20% {
     transform: translateY(-5px);
-    color: rgb(45, 58, 245);
+    color: var(--var-second-button-bg);
    }
    40%, 100% {
     transform: translateY(0px);
@@ -118,7 +141,7 @@ wave-text span {
 .popup {
     z-index: 10;
     max-width: 350px;
-    background: #101010;
+    background: var(--var-popup-bg);
     animation: .2s popup;
     pointer-events: all;
 }
@@ -131,7 +154,7 @@ wave-text span {
 .popup-title {
     padding: 5px;
     font-size: 80%;
-    background: rgb(30, 39, 172);
+    background: var(--var-popup-second-bg);
 }
 
 @keyframes popup {
