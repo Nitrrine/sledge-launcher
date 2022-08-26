@@ -9,6 +9,9 @@
 <a href="https://discord.gg/CTWW4GWPgr"><img src="https://img.shields.io/discord/919624550466064494?label=discord&style=flat-square"></img></a>
 </p>
 
+## Plans
+I plan to make the most useful and effective launcher for this wonderful program, which will have auto-updates, customization of the menu and other interface elements
+
 ## Requirements
 You are need this to run project
 * [Node.JS (16.17.0 or above)](https://nodejs.org/)
