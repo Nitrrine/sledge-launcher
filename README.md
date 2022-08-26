@@ -2,7 +2,7 @@
 <h2 align="center">Sledge Launcher</h2>
 <p align="center">
 <i>Fully customizable launcher for <a href="https://github.com/44lr/sledge">Sledge</a></i>
-<img src="https://img.shields.io/github/package-json/v/BuilderHD/sledge-launcher?style=flat-square"></img>
+<p><img src="https://img.shields.io/github/package-json/v/BuilderHD/sledge-launcher?style=for-the-badge"></img></p>
 </p>
 
 ## Requirements
