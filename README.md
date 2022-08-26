@@ -1,6 +1,8 @@
 <p align="center"><img src="img/icon.png"></img></p>
-<h1 align="center">Slege Launcher</h1>
-<i aligin="center">Fully customizable launcher for <a href="https://github.com/44lr/sledge">Sledge</a></i>
+<h2 align="center">Sledge Launcher</h2>
+<p align="center">
+<i>Fully customizable launcher for <a href="https://github.com/44lr/sledge">Sledge</a></i>
+</p>
 
 ## Requirements
 You are need this to run project
