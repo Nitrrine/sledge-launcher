@@ -4,6 +4,7 @@ var window = remote.getCurrentWindow()
 
 function startButtonClick() {
     createPopup('Start', 'button not working')
+    // TODO: run sledge on click
 }
 
 function problemsButtonClick() {
