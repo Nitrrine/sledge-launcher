@@ -5,6 +5,7 @@
 <p align="center">
 <img src="https://img.shields.io/github/downloads/BuilderHD/sledge-launcher/total?style=flat-square"></img>
 <img src="https://img.shields.io/tokei/lines/github/BuilderHD/sledge-launcher?style=flat-square"></img>
+<img src="https://img.shields.io/github/last-commit/BuilderHD/sledge-launcher?style=flat-square"></img>
 </p>
 
 ## Requirements
