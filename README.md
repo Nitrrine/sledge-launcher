@@ -28,5 +28,8 @@ You are need this to build project
 * [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
 
 <p align="center">
-<a href="https://electronjs.org"><img src="https://github.com/get-icon/geticon/blob/master/icons/electron.svg" style="height: 35px;"></img></a>
-Made with Electron</p>
+<a href="https://electronjs.org">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/electron.svg" style="height: 35px;"></img>
+</a>
+<p>Made with Electron</p>
+</p>
