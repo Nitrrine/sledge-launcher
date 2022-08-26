@@ -46,6 +46,10 @@ a:hover {
     color: rgb(30, 39, 172);
 }
 
+img {
+    user-select: none;
+}
+
 .wrapper {
     min-width: 100%;
     min-height: 100%;

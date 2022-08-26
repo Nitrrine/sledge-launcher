@@ -9,10 +9,11 @@ function createWindow() {
         {
             width: 500, 
             height: 300,
-            maxWidth: 700,
-            maxHeight: 500,
-            minWidth: 500,
-            minHeight: 300,
+            // maxWidth: 700,
+            // maxHeight: 500,
+            // minWidth: 500,
+            // minHeight: 300,
+            resizable: false,
             icon: 'img/icon.png',
             autoHideMenuBar: true
         }
