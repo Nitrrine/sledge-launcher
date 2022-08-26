@@ -13,7 +13,7 @@
 I plan to make the most useful and effective launcher for this wonderful program, which will have auto-updates, customization of the menu and other interface elements
 
 ## Requirements
-You are need this to run project
+You are need this to build project
 * [Node.JS (16.17.0 or above)](https://nodejs.org/)
 * [Git](https://git-scm.com/)
 * [VS Code](https://code.visualstudio.com/) (optional)
