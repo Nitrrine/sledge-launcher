@@ -1,7 +1,5 @@
-<p align="center"><img src="img/icon.png"></img></p>
-
-## Sledge Launcher
-Fully customizable launcher for [Sledge](https://github.com/44lr/sledge)
+<p align="center"><img src="img/icon.png"></img><h1>Slege Launcher</h1></p>
+<i>Fully customizable launcher for [Sledge](https://github.com/44lr/sledge)</i>
 
 ## Requirements
 You are need this to run project
