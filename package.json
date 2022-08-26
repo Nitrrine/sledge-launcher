@@ -1,12 +1,12 @@
 {
-  "name": "app",
+  "name": "sledge-launcher",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "author": "",
+  "author": "Nitro",
   "license": "ISC",
   "dependencies": {
     "electron": "^20.1.0"
