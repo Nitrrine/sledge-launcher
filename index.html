@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sledge</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <!-- Styles -->
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="popups">
+        </div>
+        <header class="header">
+            <div class="title">
+                <wave-text>
+                    <span style="--i:1;">s</span>
+                    <span style="--i:2;">l</span>
+                    <span style="--i:3;">e</span>
+                    <span style="--i:4;">d</span>
+                    <span style="--i:5;">g</span>
+                    <span style="--i:6;">e</span>
+                </wave-text>
+            </div>
+        </header>
+        <div class="main">
+            <div class="buttons">
+                <button onclick="startButtonClick()">Start</button>
+                <button onclick="problemsButtonClick()">Problems?</button>
+                <button onclick="aboutButtonClick()">About</button>
+                <button onclick="exitButtonClick()">Exit</button>
+            </div>
+        </div>
+        <footer class="footer">
+            C# Mod Loader for Teardown
+            <div class="links">
+                <a target='_blank' href="https://github.com/44lr/sledge">GitHub</a>
+                <a target='_blank' href="https://github.com/44lr/sledge/releases">Releases</a>
+            </div>
+        </footer>
+    </div>
+    <script src="buttons.js"></script>
+</body>
+</html>
