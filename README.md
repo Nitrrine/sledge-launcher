@@ -1,4 +1,4 @@
-[![Header](img/icon.png)]
+![Sledge icon](img/icon.png){ style="display: block; margin: auto;" }
 
 ## Sledge Launcher
 Fully customizable launcher for [Sledge](https://github.com/44lr/sledge)
