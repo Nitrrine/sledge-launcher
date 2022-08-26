@@ -40,7 +40,11 @@ function createPopup(title = "Sledge", text) {
     textTitle.innerHTML = title
     textPopup.innerHTML = text
 
-    var closeBtn = popup.appendChild(document.createElement('button'))
+    var popupButtons = popup.appendChild(document.createElement('div'))
+
+    popupButtons.setAttribute('class', 'popup-buttons')
+
+    var closeBtn = popupButtons.appendChild(document.createElement('button'))
     closeBtn.innerHTML = 'Close'
     closeBtn.onclick = function () {
         popup.remove()

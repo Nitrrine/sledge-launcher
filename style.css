@@ -162,6 +162,12 @@ wave-text span {
     font-size: 80%;
 }
 
+.popup-buttons {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
 .popup-title {
     padding: 5px;
     font-size: 80%;
