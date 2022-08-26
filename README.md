@@ -16,5 +16,5 @@ You are need this to run project
 3. Init npm ``npm init``
 4. Run launcher using ``npm start``
 
-## Special thanks to
+## Special thanks
 * [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
