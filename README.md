@@ -1,4 +1,4 @@
-![Sledge icon](img/icon.png)
+[![Header](img/icon.png)]
 
 ## Sledge Launcher
 Fully customizable launcher for [Sledge](https://github.com/44lr/sledge)
