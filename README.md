@@ -31,5 +31,5 @@ You are need this to build project
 <a href="https://electronjs.org">
 <img src="https://github.com/get-icon/geticon/blob/master/icons/electron.svg" style="height: 35px;"></img>
 </a>
-<p>Made with Electron</p>
 </p>
+<p align="center">Made with HTML, CSS, JS & Electron</p>
