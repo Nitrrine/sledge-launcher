@@ -15,3 +15,6 @@ You are need this to run project
 2. Change dir ``cd sledge-launcher``
 3. Init npm ``npm init``
 4. Run launcher using ``npm start``
+
+## Special thanks to
+* [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
