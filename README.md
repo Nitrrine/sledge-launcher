@@ -1,4 +1,4 @@
-<p align="center"><img src="img/icon.png"></img></p>
+<p align="center"><a href="https://github.com/44lr/sledge"><img src="img/icon.png"></img></a></p>
 <h2 align="center">Sledge Launcher</h2>
 <p align="center">
 <i>Fully customizable launcher for <a href="https://github.com/44lr/sledge">Sledge</a></i>
