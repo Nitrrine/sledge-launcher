@@ -15,7 +15,11 @@ function createWindow() {
             // minHeight: 300,
             resizable: false,
             icon: 'img/icon.png',
-            autoHideMenuBar: true
+            autoHideMenuBar: true,
+            title: 'Sledge Launcher',
+            webPreferences: {
+                nodeIntegration: true
+            }
         }
     )
 
