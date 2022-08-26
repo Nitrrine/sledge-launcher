@@ -1,4 +1,4 @@
-<p align="center">![sledge](img/icon.png)</p>
+<p align="center"><img src="img/icon.png"></img></p>
 
 ## Sledge Launcher
 Fully customizable launcher for [Sledge](https://github.com/44lr/sledge)
