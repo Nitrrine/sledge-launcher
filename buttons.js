@@ -18,6 +18,10 @@ function aboutButtonClick() {
     '<a target="_blank" href="https://github.com/SK83RJOSH">SK83RJOSH</a>, <a target="_blank" href="https://github.com/ss-gnalvesteffer">Xorberax</a>, <a target="_blank" href="https://github.com/nymda">Nymda</a>, <a target="_blank" href="https://github.com/BuilderHD">Nitro</a>, <a target="_blank" href="https://github.com/vulcan-dev">Daniel</a>, <a target="_blank" href="https://github.com/alexandargyurov">Alexandar</a>')
 }
 
+function settingsButtonClick() {
+    createPopup('Settings', '<input type="checkbox" onclick=themeChanged(this.checked)> Light theme')
+}
+
 function exitButtonClick() {
     window.close()
 }

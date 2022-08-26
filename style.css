@@ -5,8 +5,8 @@
     --var-second-fc: #999999;
     --var-button-bg: #2d3af5;
     --var-second-button-bg: #1e27ac;
-    --var-popup-bg: #101010;
-    --var-popup-second-bg: #090909;
+    --var-popup-bg: #1d1d1d;
+    --var-popup-second-bg: #181818;
 }
 
 * {
@@ -80,29 +80,28 @@ button {
     cursor: pointer;
     transition: .1s;
     margin: 3px;
+    outline: none;
 }
 
-button:hover {
+button:hover, button:focus {
     background: var(--var-second-button-bg);
 }
 
-.main {
-    flex: 1 1 auto;
-}
-
 .main .buttons {
-    margin: auto;
+    margin: 25px auto;
     display: flex;
     align-items: center;
-    padding: 35px 0;
     flex-direction: column;
 }
 
 .main .buttons button {
-    min-width: 100px;
+    min-width: 130px;
 }
 
 .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
     padding: 5px;
     color: var(--var-second-fc);
     background: var(--var-second-bg);
