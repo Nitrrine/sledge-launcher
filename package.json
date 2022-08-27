@@ -1,7 +1,7 @@
 {
   "name": "sledge-launcher",
   "version": "1.0.0",
-  "description": "",
+  "description": "Fully customizable launcher for Sledge",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
