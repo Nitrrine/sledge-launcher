@@ -4,11 +4,25 @@
   "description": "Fully customizable launcher for Sledge",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "dist": "electron-builder"
   },
   "author": "Nitro",
   "license": "ISC",
-  "dependencies": {
-    "electron": "^20.1.0"
+  "build": {
+    "appId": "com.nitro.sledgelauncher",
+    "productName": "Sledge Launcher",
+    "target": "NSIS",
+    "directories": {
+      "output": "build"
+    },
+    "nsis": {
+      "allowToChangeInstallationDirectory": true,
+      "oneClick": false
+    }
+  },
+  "devDependencies": {
+    "electron": "^20.1.0",
+    "electron-builder": "^23.3.3"
   }
 }
