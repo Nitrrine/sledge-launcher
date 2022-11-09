@@ -29,7 +29,7 @@ You are need this to build project
 
 <p align="center">
 <a href="https://electronjs.org">
-<img src="https://github.com/get-icon/geticon/blob/master/icons/electron.svg" style="height: 35px;"></img>
+<img src="https://github.com/get-icon/geticon/blob/master/icons/electron.svg" style="width: 35px; height: 35px;"></img>
 </a>
 </p>
 <p align="center">Made with HTML, CSS, JS & Electron</p>
